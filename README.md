@@ -8,9 +8,19 @@ https://www.airpair.com/aws/posts/ntiered-aws-docker-terraform-guide
 
 CloudFormation:
 
+Getting Started with AWS CloudFormation
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/GettingStarted.Walkthrough.html
+
 Part 1: Develop, Deploy, and Manage for Scale with Elastic Beanstalk and
 CloudFormation Series
 https://blogs.aws.amazon.com/application-management/post/Tx2DUJYZVBMJ92J/Part-1-Develop-Deploy-and-Manage-for-Scale-with-Elastic-Beanstalk-and-CloudForma
+
+Template Reference
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html
+
+Docker:
+
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_dockerpreconfig.walkthrough.html
 
 Tools: 
 
